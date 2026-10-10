@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#1E1424" />
+  <circle cx="256" cy="256" r="180" fill="none" stroke="#C59B7D" stroke-width="4" stroke-opacity="0.3" />
+  <circle cx="256" cy="256" r="160" fill="none" stroke="#C59B7D" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="8 8" />
+  <!-- Stylized Luxury Monogram "A" -->
+  <path d="M256 120 L340 340 L300 340 L280 286 L232 286 L212 340 L172 340 Z M256 182 L242 248 L270 248 Z" fill="#FFF9EF" />
+  <circle cx="256" cy="116" r="8" fill="#C59B7D" />
+  <circle cx="256" cy="268" r="4" fill="#C59B7D" />
+</svg>

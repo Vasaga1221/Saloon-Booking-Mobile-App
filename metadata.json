@@ -1,0 +1,6 @@
+{
+  "name": "Aura Partner OS — Salon Management",
+  "description": "Complete haute atelier enterprise operational suite for salon owners and master stylists featuring live executive pulse, multi-stylist daily timeline, interactive POS docket checkout, and client CRM dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
